@@ -1,4 +1,4 @@
-
+// you need to replace YOUR_KEY with your api key from WeatherAPI
 const apiKey = "YOUR_KEY";
 var currentdate = new Date();
 async function getData(url) {
