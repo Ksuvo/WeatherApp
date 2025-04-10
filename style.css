@@ -18,6 +18,18 @@ header:hover{
     background-color: rgba(85, 81, 81, 0.217);
     box-shadow: 0 1px 2px 1px rgba(85, 81, 81, 0.217);
 }
+header input{
+    background-color: transparent;
+    border: none;
+    color: #E5E9FF;
+    text-align: center;
+}
+header input::placeholder{
+    font-weight: bold;
+    color: #E5E9FF;
+    text-align: center;
+}
+
 
 main{
     font-family: Arial, Helvetica, sans-serif;
@@ -40,7 +52,7 @@ main{
     height: 75vh;
 }
 .pogodaImg{
-    background-image: url(src/Group\ 1.png);
+    background-image: url(ishodniki/Group\ 1.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 30vw;
