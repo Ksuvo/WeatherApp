@@ -60,7 +60,7 @@ main{
     height: 75vh;
 }
 .pogodaImg{
-    background-image: url(ishodniki/Group\ 1.png);
+    background-image: url(data/Group\ 1.png);
     background-repeat: no-repeat;
     background-size: contain;
     width: 30vw;

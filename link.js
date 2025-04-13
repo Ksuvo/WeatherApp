@@ -1,4 +1,3 @@
-
 const apiKey = "YOUR_KEY";
 var currentdate = new Date();
 async function getData(url) {
